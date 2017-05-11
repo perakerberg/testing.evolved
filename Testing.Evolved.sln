@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.Evolved.SampleProje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.Evolved.SpecFlow", "Testing.Evolved.SpecFlow\Testing.Evolved.SpecFlow.csproj", "{CCB878F8-E943-40E9-8DCD-C26BAD2AA9B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.Evolved.Unit", "Testing.Evolved.Unit\Testing.Evolved.Unit.csproj", "{CEB862B2-5545-4531-82DC-333F23044510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CCB878F8-E943-40E9-8DCD-C26BAD2AA9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCB878F8-E943-40E9-8DCD-C26BAD2AA9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCB878F8-E943-40E9-8DCD-C26BAD2AA9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB862B2-5545-4531-82DC-333F23044510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB862B2-5545-4531-82DC-333F23044510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB862B2-5545-4531-82DC-333F23044510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB862B2-5545-4531-82DC-333F23044510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
